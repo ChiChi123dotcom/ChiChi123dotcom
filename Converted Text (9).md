@@ -35,12 +35,6 @@ Homology modeling is performed using templates from known structures of homologo
 
 PyMOl is an open-source visualization software that analyses 3D structures of macromolecules. We used PyMol to superimpose multiple structure of P53 so that we could identify the most likely conformation of the P53 modelled by AlphaFold and Swiss Model. One of the major shortcomings of AlphaFold3 modelling is its variable performance in predicting proteins which undergo significant conformational changes depending on ligand attachment (apo, agonist and antagonist). By performing RMSD analysis in PyMOl we can quantify how closely a modelled structure aligns with an experimentally determined structure. 
 
-\
-\
-\
-\
-\
-
 
 **Table 1. RMSD scores generated from the alignment of modelled p53 structures and p53 reference crystal structures from RCSB PDB.** 
 
